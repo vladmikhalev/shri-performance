@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/shri-performance/static/css/main.59f4e9bd.css",
+    "main.css": "/shri-performance/static/css/main.7791f63b.css",
     "main.js": "/shri-performance/static/js/main.ff607ed6.js",
-    "static/media/bg@2x.png": "/shri-performance/static/media/bg@2x.b23d48f2e17f0ebd4d42.png",
+    "static/media/bg_2x.webp": "/shri-performance/static/media/bg_2x.ff3729ef3eff5d2bddcb.webp",
     "static/media/icon_sun.svg": "/shri-performance/static/media/icon_sun.ab45bd1abea4a81765bb.svg",
     "static/media/arrow-down.svg": "/shri-performance/static/media/arrow-down.d655218a2b02d5911247.svg",
     "static/media/icon_sun_2.svg": "/shri-performance/static/media/icon_sun_2.f1c80687f8b99c25c4c9.svg",
@@ -13,11 +13,11 @@
     "static/media/icon_list_m@1x.svg": "/shri-performance/static/media/icon_list_m@1x.2c481f94300218fcebd0.svg",
     "static/media/icon_scheduled.svg": "/shri-performance/static/media/icon_scheduled.71bbb008775a1c81db81.svg",
     "index.html": "/shri-performance/index.html",
-    "main.59f4e9bd.css.map": "/shri-performance/static/css/main.59f4e9bd.css.map",
+    "main.7791f63b.css.map": "/shri-performance/static/css/main.7791f63b.css.map",
     "main.ff607ed6.js.map": "/shri-performance/static/js/main.ff607ed6.js.map"
   },
   "entrypoints": [
-    "static/css/main.59f4e9bd.css",
+    "static/css/main.7791f63b.css",
     "static/js/main.ff607ed6.js"
   ]
 }
